@@ -240,3 +240,6 @@ This repository serves as the official landing page for Offworld. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Offworld today!**
+
+---
+**Last updated:** 2026-09-08 16:14:41 UTC
