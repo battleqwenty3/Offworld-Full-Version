@@ -242,4 +242,4 @@ This repository serves as the official landing page for Offworld. The software i
 **Get the most recent version of Offworld today!**
 
 ---
-**Last updated:** 2026-09-27 07:45:29 UTC
+**Last updated:** 2026-09-27 13:38:00 UTC
